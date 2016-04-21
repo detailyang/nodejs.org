@@ -68,8 +68,8 @@
         "link": "docs",
         "text": "Documentazione",
         "es6": {
-            "link": "docs/es6",
-            "text": "ES6 in Node.js"
+            "link": "http://node.green",
+            "text": "ES6 e oltre"
         },
         "faq": {
             "link": "docs/faq",
